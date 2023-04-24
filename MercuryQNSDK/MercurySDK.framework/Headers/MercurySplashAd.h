@@ -68,10 +68,6 @@ NS_ASSUME_NONNULL_BEGIN
 // 获取素材链接
 - (NSString *)getMaterialLink;
 
-// 获取跳转链接或落地页链接
-// 该字段在广告点击回调中才能获取到 -mercury_splashAdClicked:
-- (NSString *)getDeeplinkOrPageUrl;
-
 // 获取本次广告的物料类型
 - (MercuryMaterialType)getMaterialType;
 
