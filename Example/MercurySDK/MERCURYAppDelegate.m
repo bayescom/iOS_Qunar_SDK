@@ -65,7 +65,8 @@
 //                          appKey:@"9fd708c28a14006344301ef5cac76adb"
 //                            config:@{}];
 
-    
+    [MercuryConfigManager preloadedResourcesIfNeed:YES];
+    [MercuryConfigManager setDefaultUserAgent:@"testUa"];
     // 开启日志
     [MercuryConfigManager openDebug:YES];
 }

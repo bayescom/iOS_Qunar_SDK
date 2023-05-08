@@ -140,7 +140,7 @@
 - (void)mercury_splashAdDidLoad:(MercurySplashAd *)splashAd {
     NSLog(@"开屏广告模型加载成功 %s\r\nprice:%ld\r\n素材链接:%@\r\n素材类型:%ld", __func__, (long)[splashAd getPrice], [splashAd getMaterialLink], (long)[splashAd getMaterialType]);
 
-    NSLog(@"跳转跳转链接(此时获取不到,请在点击后的mercury_splashAdOpenlink:linkType:中获取):%@", [splashAd getDeeplinkOrPageUrl]);
+    NSLog(@"跳转跳转链接(此时获取不到,请在点击后的mercury_splashAdOpenlink:linkType:中获取)");
     [self showAction];
 }
 
@@ -168,7 +168,6 @@
 
 - (void)mercury_splashAdClicked:(MercurySplashAd *)splashAd {
     NSLog(@"开屏广告点击回调 %s %@", __func__, splashAd);
-    NSLog(@"跳转跳转链接:%@", [splashAd getDeeplinkOrPageUrl]);
 
 }
 
