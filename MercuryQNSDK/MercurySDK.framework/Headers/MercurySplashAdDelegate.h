@@ -18,6 +18,10 @@
 /// @param splashAd 广告数据
 - (void)mercury_splashAdDidLoad:(MercurySplashAd * _Nullable)splashAd;
 
+/// 开屏广告物料加载成功
+- (void)mercury_materialDidLoad:(MercurySplashAd * _Nullable)splashAd;
+
+
 /// 开屏广告成功曝光
 /// @param splashAd 广告数据
 - (void)mercury_splashAdSuccessPresentScreen:(MercurySplashAd * _Nullable)splashAd;
