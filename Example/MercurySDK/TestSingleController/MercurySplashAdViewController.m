@@ -138,13 +138,13 @@
 
 // MARK: ======================= MercurySplashAdDelegate =======================
 - (void)mercury_splashAdDidLoad:(MercurySplashAd *)splashAd {
-    NSLog(@"开屏广告模型加载成功 %s\r\nprice:%ld\r\n素材链接:%@\r\n素材类型:%ld", __func__, (long)[splashAd getPrice], [splashAd getMaterialLink], (long)[splashAd getMaterialType]);
+    NSLog(@"开屏广告模型加载成功 %s\r\nprice:%ld\r\n素材链接:%@\r\n素材类型:%ld\r\n物料是否已缓存:%d", __func__, (long)[splashAd getPrice], [splashAd getMaterialLink], (long)[splashAd getMaterialType], [splashAd materialIsReady]);
 
     NSLog(@"跳转跳转链接(此时获取不到,请在点击后的mercury_splashAdOpenlink:linkType:中获取)");
 }
 
-- (void)mercury_materialDidLoad:(MercurySplashAd *)splashAd {
-    NSLog(@"开屏广告物料加载成功 %s %@", __func__, splashAd);
+- (void)mercury_materialDidLoad:(MercurySplashAd *)splashAd isFromCache:(BOOL)isFromCache{
+    NSLog(@"开屏广告物料加载成功 %s %@ 物料是否来自缓存:%d 物料是否已缓存: %d", __func__, splashAd, isFromCache, [splashAd materialIsReady]);
     [self showAction];
 }
 
