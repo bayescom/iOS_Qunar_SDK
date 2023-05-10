@@ -9,7 +9,7 @@
 #import "MercuryBannerAdViewController.h"
 #import "ViewBuilder.h"
 
-#import <MercurySDK/MercurySDK.h>
+#import "MercurySDK.h"
 
 @interface MercuryBannerAdViewController () <MercuryBannerAdViewDelegate>
 @property (nonatomic, strong) MercuryBannerAdView *bannerView;

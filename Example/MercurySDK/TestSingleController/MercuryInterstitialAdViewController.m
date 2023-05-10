@@ -8,7 +8,7 @@
 
 #import "MercuryInterstitialAdViewController.h"
 
-#import <MercurySDK/MercurySDK.h>
+#import "MercurySDK.h"
 
 @interface MercuryInterstitialAdViewController () <MercuryInterstitialAdDelegate>
 @property (nonatomic, strong) MercuryInterstitialAd *ad;

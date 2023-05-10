@@ -6,7 +6,7 @@
 //  Copyright © 2019 CherryKing. All rights reserved.
 //
 
-#import <MercurySDK/MercurySDK.h>
+#import "MercurySDK.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

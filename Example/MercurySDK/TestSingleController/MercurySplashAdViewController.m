@@ -8,7 +8,7 @@
 
 #import "MercurySplashAdViewController.h"
 
-#import <MercurySDK/MercurySDK.h>
+#import "MercurySDK.h"
 #import <objc/runtime.h>
 #import <objc/message.h>
 

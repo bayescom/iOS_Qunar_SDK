@@ -8,7 +8,7 @@
 
 #import "MercuryRewardVideoViewController.h"
 
-#import <MercurySDK/MercurySDK.h>
+#import "MercurySDK.h"
 
 @interface MercuryRewardVideoViewController () <MercuryRewardVideoAdDelegate>
 // 竖屏

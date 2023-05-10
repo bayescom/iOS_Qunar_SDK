@@ -706,6 +706,10 @@
 				GCC_PREFIX_HEADER = "MercurySDK/MercurySDK-Prefix.pch";
 				INFOPLIST_FILE = "MercurySDK/MercurySDK-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/MercurySDK/Lib",
+				);
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = MercurySDK.Example;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -727,6 +731,10 @@
 				GCC_PREFIX_HEADER = "MercurySDK/MercurySDK-Prefix.pch";
 				INFOPLIST_FILE = "MercurySDK/MercurySDK-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/MercurySDK/Lib",
+				);
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = MercurySDK.Example;
 				PRODUCT_NAME = "$(TARGET_NAME)";

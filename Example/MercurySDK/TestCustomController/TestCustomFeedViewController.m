@@ -11,7 +11,7 @@
 #import "BYExamCellModel.h"
 #import "TestCustomFeedTableViewCell.h"
 
-#import <MercurySDK/MercurySDK.h>
+#import "MercurySDK.h"
 
 @interface TestCustomFeedViewController () <MercuryNativeAdDelegate, MercuryNativeAdViewDelegate, UITableViewDelegate, UITableViewDataSource>
 @property (strong, nonatomic) UITableView *tableView;

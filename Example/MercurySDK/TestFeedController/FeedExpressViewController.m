@@ -10,7 +10,7 @@
 #import "CellBuilder.h"
 #import "BYExamCellModel.h"
 
-#import <MercurySDK/MercurySDK.h>
+#import "MercurySDK.h"
 
 @interface FeedExpressViewController () <MercuryNativeExpressAdDelegete, UITableViewDelegate, UITableViewDataSource>
 @property (strong, nonatomic) UITableView *tableView;

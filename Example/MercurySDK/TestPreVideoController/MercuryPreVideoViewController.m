@@ -8,7 +8,7 @@
 
 #import "MercuryPreVideoViewController.h"
 
-#import <MercurySDK/MercurySDK.h>
+#import "MercurySDK.h"
 
 @interface MercuryPreVideoViewController () <MercuryPrerollAdDelegate>
 @property (nonatomic, strong) MercuryPrerollAdView *adView;

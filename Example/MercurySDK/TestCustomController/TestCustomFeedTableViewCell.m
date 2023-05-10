@@ -8,7 +8,7 @@
 
 #import "TestCustomFeedTableViewCell.h"
 
-#import <MercurySDK/MercurySDK.h>
+#import "MercurySDK.h"
 #import "Masonry.h"
 
 @interface TestCustomFeedTableViewCell ()

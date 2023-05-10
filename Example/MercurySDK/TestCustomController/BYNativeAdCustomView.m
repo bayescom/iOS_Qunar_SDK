@@ -10,7 +10,7 @@
 #import "Masonry.h"
 #import "UIImageView+WebCache.h"
 
-#import <MercurySDK/MercurySDK.h>
+#import "MercurySDK.h"
 
 @implementation BYNativeAdCustomView
 - (instancetype)init {
