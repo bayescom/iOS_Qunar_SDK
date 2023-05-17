@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'MercuryQNSDK'
-  s.version          = '1.0.0.4'
+  s.version          = '1.0.0.5'
   
   s.ios.deployment_target = '9.0'
   s.platform     = :ios, "9.0" 

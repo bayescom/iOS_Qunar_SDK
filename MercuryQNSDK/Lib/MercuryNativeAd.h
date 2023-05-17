@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "MercurySDK.h"
+
 @class MercuryNativeAdDataModel;
 NS_ASSUME_NONNULL_BEGIN
 
