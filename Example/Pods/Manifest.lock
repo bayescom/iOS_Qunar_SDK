@@ -1,6 +1,6 @@
 PODS:
   - Masonry (1.1.0)
-  - MercuryQNSDK (1.0.0.4)
+  - MercuryQNSDK (1.0.0.5)
   - SDWebImage (5.15.6):
     - SDWebImage/Core (= 5.15.6)
   - SDWebImage/Core (5.15.6)
@@ -21,7 +21,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
-  MercuryQNSDK: dc7043a206b876481765515a89b02d847200dbad
+  MercuryQNSDK: 2ec597ec778513f951e23fe8f16d640486452341
   SDWebImage: d47d81bea8a77187896b620dc79c3c528e8906b9
 
 PODFILE CHECKSUM: 28d7bc9554435475ba0a06485a5ff12392a0b2bc

@@ -1,6 +1,6 @@
 {
   "name": "MercuryQNSDK",
-  "version": "1.0.0.4",
+  "version": "1.0.0.5",
   "platforms": {
     "ios": "9.0"
   },
@@ -17,7 +17,7 @@
   },
   "source": {
     "git": "https://github.com/bayescom/iOS_Qunar_SDK.git",
-    "tag": "1.0.0.4"
+    "tag": "1.0.0.5"
   },
   "vendored_libraries": "MercuryQNSDK/Lib/*.a",
   "source_files": "MercuryQNSDK/Lib/*.{h}",
