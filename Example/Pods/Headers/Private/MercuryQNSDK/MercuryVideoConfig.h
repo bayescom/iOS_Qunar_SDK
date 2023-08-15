@@ -1,1 +1,1 @@
-../../../../../MercuryQNSDK/Lib/MercuryVideoConfig.h
+../../../../../MercuryQNSDK/Lib/1.0.0.8/MercuryVideoConfig.h

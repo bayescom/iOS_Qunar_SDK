@@ -1,1 +1,1 @@
-../../../../../MercuryQNSDK/Lib/MercuryInterstitialAd.h
+../../../../../MercuryQNSDK/Lib/1.0.0.8/MercuryInterstitialAd.h

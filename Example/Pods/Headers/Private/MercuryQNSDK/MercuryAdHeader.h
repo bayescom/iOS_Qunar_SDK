@@ -1,1 +1,1 @@
-../../../../../MercuryQNSDK/Lib/MercuryAdHeader.h
+../../../../../MercuryQNSDK/Lib/1.0.0.8/MercuryAdHeader.h

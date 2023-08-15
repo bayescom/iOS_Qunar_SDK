@@ -1,1 +1,1 @@
-../../../../../MercuryQNSDK/Lib/MercuryBannerAdView.h
+../../../../../MercuryQNSDK/Lib/1.0.0.8/MercuryBannerAdView.h

@@ -1,1 +1,1 @@
-../../../../../MercuryQNSDK/Lib/MercuryNativeAd.h
+../../../../../MercuryQNSDK/Lib/1.0.0.8/MercuryNativeAd.h

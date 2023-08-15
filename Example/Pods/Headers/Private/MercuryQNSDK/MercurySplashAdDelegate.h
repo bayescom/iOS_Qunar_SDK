@@ -1,1 +1,1 @@
-../../../../../MercuryQNSDK/Lib/MercurySplashAdDelegate.h
+../../../../../MercuryQNSDK/Lib/1.0.0.8/MercurySplashAdDelegate.h

@@ -3,7 +3,7 @@ ENABLE_BITCODE = NO
 EXCLUDED_ARCHS[sdk=iphonesimulator*] = arm64
 GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
 HEADER_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/Masonry" "${PODS_ROOT}/Headers/Public/MercuryQNSDK" "${PODS_ROOT}/Headers/Public/SDWebImage"
-LIBRARY_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/Masonry" "${PODS_CONFIGURATION_BUILD_DIR}/SDWebImage" "${PODS_ROOT}/../../MercuryQNSDK/Lib"
+LIBRARY_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/Masonry" "${PODS_CONFIGURATION_BUILD_DIR}/SDWebImage" "${PODS_ROOT}/../../MercuryQNSDK/Lib/1.0.0.8"
 OTHER_LDFLAGS = $(inherited) -ObjC -l"Masonry" -l"MercuryQNSDK" -l"SDWebImage" -framework "Foundation" -framework "ImageIO" -framework "UIKit"
 PODS_BUILD_DIR = ${BUILD_DIR}
 PODS_CONFIGURATION_BUILD_DIR = ${PODS_BUILD_DIR}/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)

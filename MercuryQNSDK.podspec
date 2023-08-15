@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'MercuryQNSDK'
-  s.version          = '1.0.0.5'
+  s.version          = '1.0.0.8'
   
   s.ios.deployment_target = '9.0'
   s.platform     = :ios, "9.0" 
@@ -19,9 +19,9 @@ Blink倍联——免费透明的流量变现神器 
   s.author           = { 'bayescom' => 'http://www.bayescom.com/' }
   s.source           = { :git => 'https://github.com/bayescom/iOS_Qunar_SDK.git', :tag => s.version.to_s }
 
-  s.vendored_libraries = 'MercuryQNSDK/Lib/*.a'
+  s.vendored_libraries = 'MercuryQNSDK/Lib/**/*.a'
   
-  s.source_files = 'MercuryQNSDK/Lib/*.{h}'
+  s.source_files = 'MercuryQNSDK/Lib/**/*.{h}'
   
    
   s.user_target_xcconfig = {'OTHER_LDFLAGS' => ['-ObjC']}

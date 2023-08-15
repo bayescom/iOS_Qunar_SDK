@@ -1,1 +1,0 @@
-../../../../../MercuryQNSDK/Lib/MercuryRewardVideoAd.h
