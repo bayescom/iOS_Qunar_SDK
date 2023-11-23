@@ -233,12 +233,10 @@
 		042D5CDA59B5F0AFF9FC2FEED4F6B284 /* Pods-MercurySDK_Example */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "Pods-MercurySDK_Example"; path = "libPods-MercurySDK_Example.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		04D59149E0BE93094266689E8F801A62 /* MASLayoutConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASLayoutConstraint.h; path = Masonry/MASLayoutConstraint.h; sourceTree = "<group>"; };
 		05C75ECB48E5B1A33A44277D9612F124 /* SDFileAttributeHelper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDFileAttributeHelper.h; path = SDWebImage/Private/SDFileAttributeHelper.h; sourceTree = "<group>"; };
-		05DFB6F9DB164F34078258BC317435E0 /* MercuryPubEnumHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercuryPubEnumHeader.h; path = MercuryQNSDK/Lib/1.0.0.8/MercuryPubEnumHeader.h; sourceTree = "<group>"; };
 		067F458DDBA244DFDD6877D6667F7BDB /* SDDeviceHelper.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDDeviceHelper.m; path = SDWebImage/Private/SDDeviceHelper.m; sourceTree = "<group>"; };
 		070C0D8DAAA84A6B2AED4609EE0DC0EF /* NSImage+Compatibility.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSImage+Compatibility.h"; path = "SDWebImage/Core/NSImage+Compatibility.h"; sourceTree = "<group>"; };
 		089B17173E18AEDCF5D3333FB040892A /* NSData+ImageContentType.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSData+ImageContentType.m"; path = "SDWebImage/Core/NSData+ImageContentType.m"; sourceTree = "<group>"; };
 		0919DA9FEEF25987E0E762FCDB3DB1EA /* SDGraphicsImageRenderer.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDGraphicsImageRenderer.m; path = SDWebImage/Core/SDGraphicsImageRenderer.m; sourceTree = "<group>"; };
-		09599662E7E5D40DBEFB50EDA0E028FA /* MercuryVideoConfig.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercuryVideoConfig.h; path = MercuryQNSDK/Lib/1.0.0.8/MercuryVideoConfig.h; sourceTree = "<group>"; };
 		09A201CFB9AA0B16B0C650C861EDCB85 /* SDImageHEICCoder.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDImageHEICCoder.h; path = SDWebImage/Core/SDImageHEICCoder.h; sourceTree = "<group>"; };
 		0B73DE8D78A714383AF7476D7C306790 /* SDImageCacheConfig.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDImageCacheConfig.h; path = SDWebImage/Core/SDImageCacheConfig.h; sourceTree = "<group>"; };
 		0C0C12531C4444FF17806EB626CB1AD3 /* UIColor+SDHexString.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIColor+SDHexString.m"; path = "SDWebImage/Private/UIColor+SDHexString.m"; sourceTree = "<group>"; };
@@ -247,10 +245,9 @@
 		0E59FF453D55675556BCA024A5C5C72B /* SDWebImageDefine.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageDefine.h; path = SDWebImage/Core/SDWebImageDefine.h; sourceTree = "<group>"; };
 		0F351F0577C2EC3F294FF9F6B393EB06 /* MASConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASConstraint.m; path = Masonry/MASConstraint.m; sourceTree = "<group>"; };
 		106F75DE93E6150CC41FC5E4163F4760 /* MASCompositeConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASCompositeConstraint.m; path = Masonry/MASCompositeConstraint.m; sourceTree = "<group>"; };
-		10F65EFC35A408ADC0F6E6536893D799 /* MercuryNativeAdView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercuryNativeAdView.h; path = MercuryQNSDK/Lib/1.0.0.8/MercuryNativeAdView.h; sourceTree = "<group>"; };
+		10D0317EBB88DA74CC66AC76BA20E7A2 /* MercuryQNSDK.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MercuryQNSDK.debug.xcconfig; sourceTree = "<group>"; };
 		11D775319480877AFF733300FFAC8024 /* MASViewAttribute.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASViewAttribute.m; path = Masonry/MASViewAttribute.m; sourceTree = "<group>"; };
 		123E81B6EC9DD2E272A06AFFB54309D0 /* Pods-MercurySDK_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MercurySDK_Example-dummy.m"; sourceTree = "<group>"; };
-		144D6A8E90012CE18990F03B587221A4 /* MercuryQNSDK.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = MercuryQNSDK.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		16EA6D8D8766C9691732E914C0970C0C /* UIImage+GIF.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+GIF.m"; path = "SDWebImage/Core/UIImage+GIF.m"; sourceTree = "<group>"; };
 		16FA724B4FBBBC9A0BADB4594FA55778 /* SDDiskCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDDiskCache.m; path = SDWebImage/Core/SDDiskCache.m; sourceTree = "<group>"; };
 		185A76D574DF3597E49890B56A1ACB0D /* Masonry.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Masonry.debug.xcconfig; sourceTree = "<group>"; };
@@ -259,9 +256,12 @@
 		19DED1402BD47BE2ED4F22EEF7F47D65 /* SDWebImageIndicator.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageIndicator.m; path = SDWebImage/Core/SDWebImageIndicator.m; sourceTree = "<group>"; };
 		1A07B2F929763DC17872EFAD275A194D /* SDAnimatedImageRep.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDAnimatedImageRep.h; path = SDWebImage/Core/SDAnimatedImageRep.h; sourceTree = "<group>"; };
 		1AE3A35A7D602128063770181C1A97CA /* MASViewAttribute.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASViewAttribute.h; path = Masonry/MASViewAttribute.h; sourceTree = "<group>"; };
+		1B4C9BD10AC2E18CDA0248BBBC8AE97B /* MercuryNativeAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercuryNativeAd.h; path = MercuryQNSDK/Lib/1.2.0/include/MercuryNativeAd.h; sourceTree = "<group>"; };
 		1BDF71E6B889F39160BC0AAE2407A545 /* View+MASAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "View+MASAdditions.m"; path = "Masonry/View+MASAdditions.m"; sourceTree = "<group>"; };
+		1C722AC9312989641B1C292361097732 /* MercuryNativeExpressAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercuryNativeExpressAd.h; path = MercuryQNSDK/Lib/1.2.0/include/MercuryNativeExpressAd.h; sourceTree = "<group>"; };
 		1DCE3506FE1C3B29EF891DB6412FE053 /* SDWebImageOptionsProcessor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageOptionsProcessor.h; path = SDWebImage/Core/SDWebImageOptionsProcessor.h; sourceTree = "<group>"; };
 		1ED5F474679D3B06E8FDA0C9D5E245CB /* Masonry-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Masonry-prefix.pch"; sourceTree = "<group>"; };
+		1EE7FA3754C58B940A5E8B13D568EFBB /* MercurySplashAdDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercurySplashAdDelegate.h; path = MercuryQNSDK/Lib/1.2.0/include/MercurySplashAdDelegate.h; sourceTree = "<group>"; };
 		1FFED36A657123030ABB700256D73F15 /* Masonry */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = Masonry; path = libMasonry.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		212CAD047A65599821C72E5CD01D4DED /* SDImageCachesManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDImageCachesManager.h; path = SDWebImage/Core/SDImageCachesManager.h; sourceTree = "<group>"; };
 		22014FC09A650011881349EC6C63A4AE /* SDImageCacheDefine.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDImageCacheDefine.m; path = SDWebImage/Core/SDImageCacheDefine.m; sourceTree = "<group>"; };
@@ -280,24 +280,23 @@
 		33B706B27D6B613897298B91EA6E6BC9 /* UIImage+MultiFormat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+MultiFormat.m"; path = "SDWebImage/Core/UIImage+MultiFormat.m"; sourceTree = "<group>"; };
 		34DAADC5AB9703324FA80367C907AB88 /* SDImageGraphics.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDImageGraphics.m; path = SDWebImage/Core/SDImageGraphics.m; sourceTree = "<group>"; };
 		365BF8EA8FAA423F4B3D622DA4FA6A70 /* SDImageTransformer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDImageTransformer.h; path = SDWebImage/Core/SDImageTransformer.h; sourceTree = "<group>"; };
-		378D0EBBC528447AB46436E012E74068 /* MercuryNativeAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercuryNativeAd.h; path = MercuryQNSDK/Lib/1.0.0.8/MercuryNativeAd.h; sourceTree = "<group>"; };
+		36E322DB8FB0335D80825109A41B17BD /* MercuryBannerAdView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercuryBannerAdView.h; path = MercuryQNSDK/Lib/1.2.0/include/MercuryBannerAdView.h; sourceTree = "<group>"; };
 		379F51A4F2BD54DF06E82B8A2F28DA35 /* SDWebImageCacheKeyFilter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageCacheKeyFilter.h; path = SDWebImage/Core/SDWebImageCacheKeyFilter.h; sourceTree = "<group>"; };
 		37B31407D89C50F6D361FC3AEDC0D288 /* SDWebImageCompat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageCompat.h; path = SDWebImage/Core/SDWebImageCompat.h; sourceTree = "<group>"; };
 		389DD6CC3296F3775B798DD1F45FFFA4 /* UIView+WebCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+WebCache.h"; path = "SDWebImage/Core/UIView+WebCache.h"; sourceTree = "<group>"; };
 		39972E1B74F52AEE5D019DF909D42BBF /* UIImage+Metadata.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Metadata.h"; path = "SDWebImage/Core/UIImage+Metadata.h"; sourceTree = "<group>"; };
-		39BCFAB990AAEB7F7DDC0EEEB98DE4F5 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		3B2B5263D36FCDEE7D37D89B4CA7411A /* SDImageCachesManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDImageCachesManager.m; path = SDWebImage/Core/SDImageCachesManager.m; sourceTree = "<group>"; };
 		3BC9FD07B82A8A748D797E4CB5D06537 /* SDImageCoderHelper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDImageCoderHelper.h; path = SDWebImage/Core/SDImageCoderHelper.h; sourceTree = "<group>"; };
 		3BCE22DE0CB93581CF6A3073EE13C9BA /* NSLayoutConstraint+MASDebugAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSLayoutConstraint+MASDebugAdditions.h"; path = "Masonry/NSLayoutConstraint+MASDebugAdditions.h"; sourceTree = "<group>"; };
 		3D0C0CB8E8A63082E4A4106CF71376D2 /* UIImage+MultiFormat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+MultiFormat.h"; path = "SDWebImage/Core/UIImage+MultiFormat.h"; sourceTree = "<group>"; };
-		3D4DE6110B2FF29AACD0430D231B303A /* MercurySplashAdDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercurySplashAdDelegate.h; path = MercuryQNSDK/Lib/1.0.0.8/MercurySplashAdDelegate.h; sourceTree = "<group>"; };
 		3DC4F7050C7909B4E08F8E0B20CF2DC1 /* SDAsyncBlockOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDAsyncBlockOperation.h; path = SDWebImage/Private/SDAsyncBlockOperation.h; sourceTree = "<group>"; };
 		3E033F5F0F91683AB96EAC9E1D612F49 /* SDImageGraphics.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDImageGraphics.h; path = SDWebImage/Core/SDImageGraphics.h; sourceTree = "<group>"; };
 		3FE9CA4EC0ADF55EB8D481E91D145ED9 /* NSArray+MASAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSArray+MASAdditions.m"; path = "Masonry/NSArray+MASAdditions.m"; sourceTree = "<group>"; };
+		409B1C4EEEC5243E7BBF295DF170282A /* MercuryQNSDK.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = MercuryQNSDK.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		426BC85980243F5A27FC9B658282ED3E /* MercuryQNSDK.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MercuryQNSDK.release.xcconfig; sourceTree = "<group>"; };
 		4399B689D0FB1E1A3D27EF1A16C769B3 /* SDImageAssetManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDImageAssetManager.h; path = SDWebImage/Private/SDImageAssetManager.h; sourceTree = "<group>"; };
 		44B695228D69169020F341A957852339 /* SDAnimatedImageRep.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDAnimatedImageRep.m; path = SDWebImage/Core/SDAnimatedImageRep.m; sourceTree = "<group>"; };
 		4514D20992C7E4A574F7675CFE1721F4 /* UIImageView+WebCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImageView+WebCache.h"; path = "SDWebImage/Core/UIImageView+WebCache.h"; sourceTree = "<group>"; };
-		46AEF0F715549F7F8483DB299D8362DC /* MercurySDK.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercurySDK.h; path = MercuryQNSDK/Lib/1.0.0.8/MercurySDK.h; sourceTree = "<group>"; };
 		46D4C0047031D0559EC322CB4DEB5DE2 /* SDImageIOCoder.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDImageIOCoder.m; path = SDWebImage/Core/SDImageIOCoder.m; sourceTree = "<group>"; };
 		47CC377BE9378C99BB86B71D5AC35EC0 /* SDWebImageTransition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageTransition.m; path = SDWebImage/Core/SDWebImageTransition.m; sourceTree = "<group>"; };
 		4805CA719E45C3D66F5F71F473507DF1 /* SDImageCacheDefine.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDImageCacheDefine.h; path = SDWebImage/Core/SDImageCacheDefine.h; sourceTree = "<group>"; };
@@ -309,6 +308,7 @@
 		52202FA3B897B25364847421BC9BD436 /* SDImageGIFCoder.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDImageGIFCoder.m; path = SDWebImage/Core/SDImageGIFCoder.m; sourceTree = "<group>"; };
 		5565C08DF44E6F7C111F3AE39A7E31EF /* NSArray+MASAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSArray+MASAdditions.h"; path = "Masonry/NSArray+MASAdditions.h"; sourceTree = "<group>"; };
 		57DC2AAEDC65EDE371414B592A83747E /* MASViewConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASViewConstraint.m; path = Masonry/MASViewConstraint.m; sourceTree = "<group>"; };
+		57EF1F922DE9A636B626E51966DA672C /* MercuryPrerollAdView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercuryPrerollAdView.h; path = MercuryQNSDK/Lib/1.2.0/include/MercuryPrerollAdView.h; sourceTree = "<group>"; };
 		58292F7796ECC0811FF6D534ED0397B9 /* Pods-MercurySDK_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MercurySDK_Tests-dummy.m"; sourceTree = "<group>"; };
 		585BC2B62D0E391CD4A14D246FF3F3FF /* SDWebImageDownloaderConfig.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageDownloaderConfig.h; path = SDWebImage/Core/SDWebImageDownloaderConfig.h; sourceTree = "<group>"; };
 		5AC15BE5172BFE227A8AE2D18C8297AE /* SDWebImageTransitionInternal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageTransitionInternal.h; path = SDWebImage/Private/SDWebImageTransitionInternal.h; sourceTree = "<group>"; };
@@ -316,25 +316,24 @@
 		5B6C0ED848CD0A619D5AEC2F48907EE1 /* SDWebImage.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SDWebImage.release.xcconfig; sourceTree = "<group>"; };
 		5C2028B973CF7BC99C1C23844C2BB1A3 /* SDWebImageDownloaderDecryptor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageDownloaderDecryptor.h; path = SDWebImage/Core/SDWebImageDownloaderDecryptor.h; sourceTree = "<group>"; };
 		5ECDF580C94ED35F5209F9246AB369F0 /* SDWebImageManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageManager.m; path = SDWebImage/Core/SDWebImageManager.m; sourceTree = "<group>"; };
+		5FD15CA2F11325A1EB8D3FAE7E28D148 /* MercuryPubEnumHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercuryPubEnumHeader.h; path = MercuryQNSDK/Lib/1.2.0/include/MercuryPubEnumHeader.h; sourceTree = "<group>"; };
+		6186219B737E085B13E40377C249FB7A /* MercurySDK.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercurySDK.h; path = MercuryQNSDK/Lib/1.2.0/include/MercurySDK.h; sourceTree = "<group>"; };
 		626A932128EA20336D733338EDFEE993 /* NSBezierPath+SDRoundedCorners.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSBezierPath+SDRoundedCorners.m"; path = "SDWebImage/Private/NSBezierPath+SDRoundedCorners.m"; sourceTree = "<group>"; };
 		65D4EB7A110A703D5B14EE4241FF7351 /* SDImageCodersManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDImageCodersManager.h; path = SDWebImage/Core/SDImageCodersManager.h; sourceTree = "<group>"; };
-		66AB4938D6C5CAB6EA58BB414D94D8DA /* MercuryPrerollAdView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercuryPrerollAdView.h; path = MercuryQNSDK/Lib/1.0.0.8/MercuryPrerollAdView.h; sourceTree = "<group>"; };
-		69DDD45661EA600C670167627D8773B5 /* libMercuryQNSDK.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = libMercuryQNSDK.a; path = MercuryQNSDK/Lib/1.0.0.8/libMercuryQNSDK.a; sourceTree = "<group>"; };
 		6A83235B614B9F80D87D008F84D95393 /* Pods-MercurySDK_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MercurySDK_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		6CE01020A58C986CF0F218961D74FCF3 /* UIImage+MemoryCacheCost.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+MemoryCacheCost.m"; path = "SDWebImage/Core/UIImage+MemoryCacheCost.m"; sourceTree = "<group>"; };
-		6DE1BEDB4348B6122C5052EAC3D724AA /* MercurySplashAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercurySplashAd.h; path = MercuryQNSDK/Lib/1.0.0.8/MercurySplashAd.h; sourceTree = "<group>"; };
 		6DF9F1C1C874B43ADC95804741DE3070 /* SDDiskCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDDiskCache.h; path = SDWebImage/Core/SDDiskCache.h; sourceTree = "<group>"; };
 		6F1009EF1CCD153A0CA66569629D320C /* Masonry-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Masonry-dummy.m"; sourceTree = "<group>"; };
 		70804589AAF12A14BC61AF31B758128E /* NSButton+WebCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSButton+WebCache.h"; path = "SDWebImage/Core/NSButton+WebCache.h"; sourceTree = "<group>"; };
 		7171DFEE8B7C3D4FB74257B5DCC488B9 /* SDImageCoder.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDImageCoder.m; path = SDWebImage/Core/SDImageCoder.m; sourceTree = "<group>"; };
 		72384D9A39D58E68F6337BC1889DBB02 /* SDWebImageManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageManager.h; path = SDWebImage/Core/SDWebImageManager.h; sourceTree = "<group>"; };
 		72A941CDCA20DBE18D3201FB427C9EAD /* SDAnimatedImage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDAnimatedImage.h; path = SDWebImage/Core/SDAnimatedImage.h; sourceTree = "<group>"; };
-		73D124313400CF5E415C1A6DF9B4540A /* MercuryConfigManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercuryConfigManager.h; path = MercuryQNSDK/Lib/1.0.0.8/MercuryConfigManager.h; sourceTree = "<group>"; };
 		7480973DB94FAA7466CEAA8D822AD873 /* SDWebImageCompat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageCompat.m; path = SDWebImage/Core/SDWebImageCompat.m; sourceTree = "<group>"; };
 		75603E07E8887C5BDF98D973528B010D /* UIImageView+HighlightedWebCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImageView+HighlightedWebCache.h"; path = "SDWebImage/Core/UIImageView+HighlightedWebCache.h"; sourceTree = "<group>"; };
 		766C836BAE28567C08F4B17695D65D54 /* SDDisplayLink.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDDisplayLink.m; path = SDWebImage/Private/SDDisplayLink.m; sourceTree = "<group>"; };
 		772C320FAC6FE03461C269213FC61D7B /* MASConstraint+Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MASConstraint+Private.h"; path = "Masonry/MASConstraint+Private.h"; sourceTree = "<group>"; };
 		775E16DE6D45B5320852B48DBDE653EF /* MASConstraintMaker.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASConstraintMaker.h; path = Masonry/MASConstraintMaker.h; sourceTree = "<group>"; };
+		7AAC860ADF53EFF1C306CA83B0CBA378 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		7B4592330B5A2633D980999E3D5EDBD2 /* UIImage+MemoryCacheCost.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+MemoryCacheCost.h"; path = "SDWebImage/Core/UIImage+MemoryCacheCost.h"; sourceTree = "<group>"; };
 		7BDABD5F53C90E8609E29CD5445A6ADE /* UIView+WebCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+WebCache.m"; path = "SDWebImage/Core/UIView+WebCache.m"; sourceTree = "<group>"; };
 		7F9279971B23E3924479D85A1E5D600D /* UIImage+GIF.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+GIF.h"; path = "SDWebImage/Core/UIImage+GIF.h"; sourceTree = "<group>"; };
@@ -342,14 +341,18 @@
 		8367CD0A3CDDF13EE355EBE3AB241B83 /* UIImage+ExtendedCacheData.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+ExtendedCacheData.m"; path = "SDWebImage/Core/UIImage+ExtendedCacheData.m"; sourceTree = "<group>"; };
 		87DDC5D10D1FD39A56C8482E49869265 /* Pods-MercurySDK_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MercurySDK_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		887FDE5A560773B0E9B5681BCB9757C9 /* Pods-MercurySDK_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MercurySDK_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		89B223E05D030FB6868733E2F1F20558 /* MercuryMediaView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercuryMediaView.h; path = MercuryQNSDK/Lib/1.0.0.8/MercuryMediaView.h; sourceTree = "<group>"; };
+		8ABFE312524D5ECF2E96FD19A54B7E4C /* MercuryInterstitialAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercuryInterstitialAd.h; path = MercuryQNSDK/Lib/1.2.0/include/MercuryInterstitialAd.h; sourceTree = "<group>"; };
+		8CC206F3E1FCE76503C24E2F6D9D6586 /* MercuryAdHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercuryAdHeader.h; path = MercuryQNSDK/Lib/1.2.0/include/MercuryAdHeader.h; sourceTree = "<group>"; };
 		8E45F4C62AE22A6DEEFC1594D5DD418D /* SDImageLoader.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDImageLoader.m; path = SDWebImage/Core/SDImageLoader.m; sourceTree = "<group>"; };
 		907680746C858A08836AD8984D5EC7B2 /* NSBezierPath+SDRoundedCorners.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSBezierPath+SDRoundedCorners.h"; path = "SDWebImage/Private/NSBezierPath+SDRoundedCorners.h"; sourceTree = "<group>"; };
 		90EAE37795203F14194CC94250335F03 /* SDMemoryCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDMemoryCache.h; path = SDWebImage/Core/SDMemoryCache.h; sourceTree = "<group>"; };
+		914414791BF15AB1003B3F6D5B021538 /* MercuryNativeAdDataModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercuryNativeAdDataModel.h; path = MercuryQNSDK/Lib/1.2.0/include/MercuryNativeAdDataModel.h; sourceTree = "<group>"; };
+		914DF69D04CAA44023394C0B84F4D6DB /* MercuryVideoConfig.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercuryVideoConfig.h; path = MercuryQNSDK/Lib/1.2.0/include/MercuryVideoConfig.h; sourceTree = "<group>"; };
 		92A262F673BB87284F762F8555A4AA36 /* Pods-MercurySDK_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MercurySDK_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		936DC6980F713B90B30B333B8CB7335B /* SDWebImage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImage.h; path = WebImage/SDWebImage.h; sourceTree = "<group>"; };
 		9404C4B6C850EB4AF304ACC2ECD97B2E /* MASConstraintMaker.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASConstraintMaker.m; path = Masonry/MASConstraintMaker.m; sourceTree = "<group>"; };
 		940D335241284F00640B68A8EB730DA9 /* SDWebImageDownloaderResponseModifier.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageDownloaderResponseModifier.h; path = SDWebImage/Core/SDWebImageDownloaderResponseModifier.h; sourceTree = "<group>"; };
+		945E0CA47F32569FF0E4ACF58EDF8561 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		94D5C623BCB3374B62B5DB905FB0ABD1 /* MASLayoutConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASLayoutConstraint.m; path = Masonry/MASLayoutConstraint.m; sourceTree = "<group>"; };
 		953D130B2A7CA7ED218969AF8D29E860 /* UIImage+ExtendedCacheData.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+ExtendedCacheData.h"; path = "SDWebImage/Core/UIImage+ExtendedCacheData.h"; sourceTree = "<group>"; };
 		990F47D7E6E883137E5AD537A9C0B8E3 /* SDWebImageOperation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageOperation.m; path = SDWebImage/Core/SDWebImageOperation.m; sourceTree = "<group>"; };
@@ -359,7 +362,6 @@
 		9BBAD70391A720EC72A67D05B4F8D95E /* UIView+WebCacheOperation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+WebCacheOperation.m"; path = "SDWebImage/Core/UIView+WebCacheOperation.m"; sourceTree = "<group>"; };
 		9D6CC3557841367D01DE5E18DB4769AB /* SDWebImage.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SDWebImage.debug.xcconfig; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9E9C03D23B8456C517DADBFEB6A8626B /* MercuryQNSDK.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MercuryQNSDK.release.xcconfig; sourceTree = "<group>"; };
 		9EB4E744180AA2FAFC472D496CF1400D /* SDAssociatedObject.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDAssociatedObject.m; path = SDWebImage/Private/SDAssociatedObject.m; sourceTree = "<group>"; };
 		9F402BCE28E46F006BE23639EC11DABF /* SDWebImageDownloaderOperation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageDownloaderOperation.m; path = SDWebImage/Core/SDWebImageDownloaderOperation.m; sourceTree = "<group>"; };
 		A013DA899180E450407104DF3B0B5457 /* MASCompositeConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASCompositeConstraint.h; path = Masonry/MASCompositeConstraint.h; sourceTree = "<group>"; };
@@ -369,7 +371,6 @@
 		A318B852593853F2EBA3339D443AC1CD /* SDImageCoder.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDImageCoder.h; path = SDWebImage/Core/SDImageCoder.h; sourceTree = "<group>"; };
 		A75B27A2AB0BB6B023828C7142807744 /* View+MASAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "View+MASAdditions.h"; path = "Masonry/View+MASAdditions.h"; sourceTree = "<group>"; };
 		A7A43409D6B3FAD93FC8C6D747F5E113 /* SDWebImage-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SDWebImage-dummy.m"; sourceTree = "<group>"; };
-		A80490A49E83B6FFE80280C8B844F2DF /* MercuryQNSDK.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MercuryQNSDK.debug.xcconfig; sourceTree = "<group>"; };
 		A9C22D6C55EAFA2B6E5D3C76EFD914B5 /* SDMemoryCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDMemoryCache.m; path = SDWebImage/Core/SDMemoryCache.m; sourceTree = "<group>"; };
 		A9DC55E743D3C20E46A5275A907AAF97 /* SDAsyncBlockOperation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDAsyncBlockOperation.m; path = SDWebImage/Private/SDAsyncBlockOperation.m; sourceTree = "<group>"; };
 		AC267D399528589557D34FF1D06DD443 /* NSImage+Compatibility.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSImage+Compatibility.m"; path = "SDWebImage/Core/NSImage+Compatibility.m"; sourceTree = "<group>"; };
@@ -377,6 +378,7 @@
 		AE952F226E241248027275A69E8A53AB /* SDAnimatedImagePlayer.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDAnimatedImagePlayer.m; path = SDWebImage/Core/SDAnimatedImagePlayer.m; sourceTree = "<group>"; };
 		AEDE67EA0A9F38F6E5F089D028CB529A /* SDWebImageDownloader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageDownloader.h; path = SDWebImage/Core/SDWebImageDownloader.h; sourceTree = "<group>"; };
 		AEFB1B9FC6B1BA18771A2ABF3BFC57A3 /* UIImageView+HighlightedWebCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImageView+HighlightedWebCache.m"; path = "SDWebImage/Core/UIImageView+HighlightedWebCache.m"; sourceTree = "<group>"; };
+		B0A4576C27D52453ED8BC10293065A4B /* MercuryNativeAdView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercuryNativeAdView.h; path = MercuryQNSDK/Lib/1.2.0/include/MercuryNativeAdView.h; sourceTree = "<group>"; };
 		B0B214D775196BA7CA8E17E53048A493 /* SDWebImage */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = SDWebImage; path = libSDWebImage.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		B256B25779A5988B5C672C32C65E9CC1 /* Masonry.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Masonry.release.xcconfig; sourceTree = "<group>"; };
 		B305B4042CCD9DBD0106BA122BDFDF14 /* ViewController+MASAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "ViewController+MASAdditions.m"; path = "Masonry/ViewController+MASAdditions.m"; sourceTree = "<group>"; };
@@ -388,17 +390,18 @@
 		BAEDA1C3BA69351BF9AEA619A82C02CE /* SDWebImageDownloaderOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageDownloaderOperation.h; path = SDWebImage/Core/SDWebImageDownloaderOperation.h; sourceTree = "<group>"; };
 		BC7C3F4F4B4B24E04D8E4B6F257174A9 /* Masonry.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Masonry.h; path = Masonry/Masonry.h; sourceTree = "<group>"; };
 		BCFF7E8470DF63666B6BC3135334F8D6 /* SDImageCoderHelper.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDImageCoderHelper.m; path = SDWebImage/Core/SDImageCoderHelper.m; sourceTree = "<group>"; };
+		BD66262B385A59DD896B6304D6E7B781 /* MercurySplashAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercurySplashAd.h; path = MercuryQNSDK/Lib/1.2.0/include/MercurySplashAd.h; sourceTree = "<group>"; };
 		C03E3CD6B01EB6E0E01CACBC92934B07 /* UIView+WebCacheOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+WebCacheOperation.h"; path = "SDWebImage/Core/UIView+WebCacheOperation.h"; sourceTree = "<group>"; };
 		C5337428058B4D1C96A26037CBBF5F37 /* SDImageLoadersManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDImageLoadersManager.m; path = SDWebImage/Core/SDImageLoadersManager.m; sourceTree = "<group>"; };
 		C5F7CD8C41048A4AA0898055D51CABD3 /* SDImageAWebPCoder.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDImageAWebPCoder.m; path = SDWebImage/Core/SDImageAWebPCoder.m; sourceTree = "<group>"; };
 		C60B7097A676CA78322E779D927C4FF9 /* SDWebImageDefine.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageDefine.m; path = SDWebImage/Core/SDWebImageDefine.m; sourceTree = "<group>"; };
 		C630F0BA46F036FF867CBEAD35659D03 /* Pods-MercurySDK_Tests */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "Pods-MercurySDK_Tests"; path = "libPods-MercurySDK_Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7C0196794A65425EFAAB686BCBF9F9D /* NSLayoutConstraint+MASDebugAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSLayoutConstraint+MASDebugAdditions.m"; path = "Masonry/NSLayoutConstraint+MASDebugAdditions.m"; sourceTree = "<group>"; };
+		C8D43809DD0112EB3250DD538C6D11BB /* MercuryMediaView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercuryMediaView.h; path = MercuryQNSDK/Lib/1.2.0/include/MercuryMediaView.h; sourceTree = "<group>"; };
 		C9A1CA7DA8ECD52981B9B0DA5DF6F32A /* MASViewConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASViewConstraint.h; path = Masonry/MASViewConstraint.h; sourceTree = "<group>"; };
 		CBC88EAD277C73FECC26E99E6DBCE380 /* SDImageCacheConfig.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDImageCacheConfig.m; path = SDWebImage/Core/SDImageCacheConfig.m; sourceTree = "<group>"; };
 		CD08CF3A34BBC245DF8CF32DF4EB4A93 /* SDAnimatedImage.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDAnimatedImage.m; path = SDWebImage/Core/SDAnimatedImage.m; sourceTree = "<group>"; };
 		D0F94ABE971B0324AB1CB66362B45C77 /* SDImageLoader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDImageLoader.h; path = SDWebImage/Core/SDImageLoader.h; sourceTree = "<group>"; };
-		D29650EC35622853628A3A4F8627BE4C /* MercuryAdHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercuryAdHeader.h; path = MercuryQNSDK/Lib/1.0.0.8/MercuryAdHeader.h; sourceTree = "<group>"; };
 		D41E46DE6CF552A10A1C6E57CB057507 /* SDWebImageIndicator.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageIndicator.h; path = SDWebImage/Core/SDWebImageIndicator.h; sourceTree = "<group>"; };
 		D49B0E3F7806AA5CB01CCC0957275A42 /* SDWebImageDownloaderRequestModifier.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageDownloaderRequestModifier.h; path = SDWebImage/Core/SDWebImageDownloaderRequestModifier.h; sourceTree = "<group>"; };
 		D5455FD171839588DA6ADA2121C883E9 /* SDWebImageCacheKeyFilter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageCacheKeyFilter.m; path = SDWebImage/Core/SDWebImageCacheKeyFilter.m; sourceTree = "<group>"; };
@@ -410,26 +413,23 @@
 		DD45CF6D9D9FC60281050FBDF4E4C021 /* SDCallbackQueue.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDCallbackQueue.h; path = SDWebImage/Core/SDCallbackQueue.h; sourceTree = "<group>"; };
 		DD91752A5E09AB52C0300ED7B449A448 /* UIImage+Transform.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Transform.m"; path = "SDWebImage/Core/UIImage+Transform.m"; sourceTree = "<group>"; };
 		DDA95359BDF3A133831B417DB10D506A /* UIButton+WebCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIButton+WebCache.m"; path = "SDWebImage/Core/UIButton+WebCache.m"; sourceTree = "<group>"; };
-		DDC6D68B9FCA2847D2418B0C23D5528B /* MercuryNativeExpressAdView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercuryNativeExpressAdView.h; path = MercuryQNSDK/Lib/1.0.0.8/MercuryNativeExpressAdView.h; sourceTree = "<group>"; };
 		DEEA502BC451002FA69B4EED9EDB212D /* SDWebImageOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageOperation.h; path = SDWebImage/Core/SDWebImageOperation.h; sourceTree = "<group>"; };
-		E071AEEA8732875BCDB50C21E1A01FBB /* MercuryInterstitialAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercuryInterstitialAd.h; path = MercuryQNSDK/Lib/1.0.0.8/MercuryInterstitialAd.h; sourceTree = "<group>"; };
 		E2488F0F6D700F24E339D6C906DB1EE8 /* SDImageIOAnimatedCoder.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDImageIOAnimatedCoder.m; path = SDWebImage/Core/SDImageIOAnimatedCoder.m; sourceTree = "<group>"; };
 		E3126D2104EF2662C51C2988E794B650 /* MASConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASConstraint.h; path = Masonry/MASConstraint.h; sourceTree = "<group>"; };
 		E73532879886F891316F223DB8D04460 /* SDImageFrame.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDImageFrame.h; path = SDWebImage/Core/SDImageFrame.h; sourceTree = "<group>"; };
 		E7BB4BF988233B79CE1B41C2ACAC8706 /* SDCallbackQueue.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDCallbackQueue.m; path = SDWebImage/Core/SDCallbackQueue.m; sourceTree = "<group>"; };
-		EDB0559DAF5AC6C47BA5EE5FB28D6874 /* MercuryNativeAdDataModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercuryNativeAdDataModel.h; path = MercuryQNSDK/Lib/1.0.0.8/MercuryNativeAdDataModel.h; sourceTree = "<group>"; };
+		EB617804C016D38F34B4C865441B6E13 /* MercuryConfigManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercuryConfigManager.h; path = MercuryQNSDK/Lib/1.2.0/include/MercuryConfigManager.h; sourceTree = "<group>"; };
+		ECB8FB526DA8090C6FD9255134D1DE56 /* libMercuryQNSDK.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = libMercuryQNSDK.a; path = MercuryQNSDK/Lib/1.2.0/libMercuryQNSDK.a; sourceTree = "<group>"; };
 		EDBF12C08E7E9807827D357FA4736200 /* UIButton+WebCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIButton+WebCache.h"; path = "SDWebImage/Core/UIButton+WebCache.h"; sourceTree = "<group>"; };
-		EE44E62712EE78896F57F7661B278024 /* MercuryNativeExpressAd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercuryNativeExpressAd.h; path = MercuryQNSDK/Lib/1.0.0.8/MercuryNativeExpressAd.h; sourceTree = "<group>"; };
 		EF0D899036D71F83CB4BDA33EA2C251C /* UIImage+ForceDecode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+ForceDecode.h"; path = "SDWebImage/Core/UIImage+ForceDecode.h"; sourceTree = "<group>"; };
 		EF7F3727C12AF5F87E356E34017497CB /* SDInternalMacros.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDInternalMacros.m; path = SDWebImage/Private/SDInternalMacros.m; sourceTree = "<group>"; };
 		EFD1C5C06EBD56ADC0F7DB6BB3B0E077 /* SDAnimatedImageView+WebCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "SDAnimatedImageView+WebCache.m"; path = "SDWebImage/Core/SDAnimatedImageView+WebCache.m"; sourceTree = "<group>"; };
+		F22D3459C25D822CAEEE0761D7CD55FB /* MercuryNativeExpressAdView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercuryNativeExpressAdView.h; path = MercuryQNSDK/Lib/1.2.0/include/MercuryNativeExpressAdView.h; sourceTree = "<group>"; };
 		F3C0A1D832FEA5A01AC4E6827C2B42CB /* SDWebImagePrefetcher.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImagePrefetcher.m; path = SDWebImage/Core/SDWebImagePrefetcher.m; sourceTree = "<group>"; };
-		F4AEE4958B9BAD2CE4B17D4A7B58DC81 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		F5CBBF7359C4A35983D4FCF57261084A /* SDDisplayLink.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDDisplayLink.h; path = SDWebImage/Private/SDDisplayLink.h; sourceTree = "<group>"; };
 		F6FFB9A71F59140B7683969C5FECC00A /* SDAnimatedImageView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDAnimatedImageView.m; path = SDWebImage/Core/SDAnimatedImageView.m; sourceTree = "<group>"; };
 		F81099CE6FAA0CCF41F269F963C563B1 /* SDImageFrame.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDImageFrame.m; path = SDWebImage/Core/SDImageFrame.m; sourceTree = "<group>"; };
 		F81D611C0DA72CED610BB2CFBF3BE6E2 /* SDWebImageDownloader.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageDownloader.m; path = SDWebImage/Core/SDWebImageDownloader.m; sourceTree = "<group>"; };
-		F99310379E11514A5E431B09D2E0A456 /* MercuryBannerAdView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MercuryBannerAdView.h; path = MercuryQNSDK/Lib/1.0.0.8/MercuryBannerAdView.h; sourceTree = "<group>"; };
 		F9976ED730E4D27C89BDCBE6CD47468E /* SDmetamacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDmetamacros.h; path = SDWebImage/Private/SDmetamacros.h; sourceTree = "<group>"; };
 		F9A8D23F34B0591881184A9106FFE98E /* SDWebImageDownloaderDecryptor.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageDownloaderDecryptor.m; path = SDWebImage/Core/SDWebImageDownloaderDecryptor.m; sourceTree = "<group>"; };
 		FA2E5C05D615063719F5D9C840FBFA2F /* NSArray+MASShorthandAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSArray+MASShorthandAdditions.h"; path = "Masonry/NSArray+MASShorthandAdditions.h"; sourceTree = "<group>"; };
@@ -497,16 +497,6 @@
 			path = SDWebImage;
 			sourceTree = "<group>";
 		};
-		5E70B36F1230648D5908A6F7439D7113 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				39BCFAB990AAEB7F7DDC0EEEB98DE4F5 /* LICENSE */,
-				144D6A8E90012CE18990F03B587221A4 /* MercuryQNSDK.podspec */,
-				F4AEE4958B9BAD2CE4B17D4A7B58DC81 /* README.md */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
 		6244C9CBE1FEC2F3ECF99FF9E4151239 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -529,6 +519,33 @@
 			);
 			name = "Support Files";
 			path = "../Target Support Files/SDWebImage";
+			sourceTree = "<group>";
+		};
+		700C4E0562A07109123D9D1E00A68A30 /* MercuryQNSDK */ = {
+			isa = PBXGroup;
+			children = (
+				8CC206F3E1FCE76503C24E2F6D9D6586 /* MercuryAdHeader.h */,
+				36E322DB8FB0335D80825109A41B17BD /* MercuryBannerAdView.h */,
+				EB617804C016D38F34B4C865441B6E13 /* MercuryConfigManager.h */,
+				8ABFE312524D5ECF2E96FD19A54B7E4C /* MercuryInterstitialAd.h */,
+				C8D43809DD0112EB3250DD538C6D11BB /* MercuryMediaView.h */,
+				1B4C9BD10AC2E18CDA0248BBBC8AE97B /* MercuryNativeAd.h */,
+				914414791BF15AB1003B3F6D5B021538 /* MercuryNativeAdDataModel.h */,
+				B0A4576C27D52453ED8BC10293065A4B /* MercuryNativeAdView.h */,
+				1C722AC9312989641B1C292361097732 /* MercuryNativeExpressAd.h */,
+				F22D3459C25D822CAEEE0761D7CD55FB /* MercuryNativeExpressAdView.h */,
+				57EF1F922DE9A636B626E51966DA672C /* MercuryPrerollAdView.h */,
+				5FD15CA2F11325A1EB8D3FAE7E28D148 /* MercuryPubEnumHeader.h */,
+				6186219B737E085B13E40377C249FB7A /* MercurySDK.h */,
+				BD66262B385A59DD896B6304D6E7B781 /* MercurySplashAd.h */,
+				1EE7FA3754C58B940A5E8B13D568EFBB /* MercurySplashAdDelegate.h */,
+				914DF69D04CAA44023394C0B84F4D6DB /* MercuryVideoConfig.h */,
+				C41FE559A40CA76886573AE523B4D442 /* Frameworks */,
+				DD43EA7B9E83831F88D2DBB63E5A6B9C /* Pod */,
+				A64A62A14D2C6A5D84E2F653434F6354 /* Support Files */,
+			);
+			name = MercuryQNSDK;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		76845BA051444ED8DE567D34BCA96108 /* Core */ = {
@@ -727,20 +744,30 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		9EF94E99ECAFBB2A6F6A4F688C500037 /* Frameworks */ = {
+		A64A62A14D2C6A5D84E2F653434F6354 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				69DDD45661EA600C670167627D8773B5 /* libMercuryQNSDK.a */,
+				10D0317EBB88DA74CC66AC76BA20E7A2 /* MercuryQNSDK.debug.xcconfig */,
+				426BC85980243F5A27FC9B658282ED3E /* MercuryQNSDK.release.xcconfig */,
 			);
-			name = Frameworks;
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/MercuryQNSDK";
 			sourceTree = "<group>";
 		};
 		B3E81023A571F3002EE4EF06FBAA03E3 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				CE2A9BE4055B16048F10BED737EBB48C /* MercuryQNSDK */,
+				700C4E0562A07109123D9D1E00A68A30 /* MercuryQNSDK */,
 			);
 			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		C41FE559A40CA76886573AE523B4D442 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				ECB8FB526DA8090C6FD9255134D1DE56 /* libMercuryQNSDK.a */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		C84E8BDA883CCBA416613871EF32BED3 /* Pods-MercurySDK_Tests */ = {
@@ -754,33 +781,6 @@
 			);
 			name = "Pods-MercurySDK_Tests";
 			path = "Target Support Files/Pods-MercurySDK_Tests";
-			sourceTree = "<group>";
-		};
-		CE2A9BE4055B16048F10BED737EBB48C /* MercuryQNSDK */ = {
-			isa = PBXGroup;
-			children = (
-				D29650EC35622853628A3A4F8627BE4C /* MercuryAdHeader.h */,
-				F99310379E11514A5E431B09D2E0A456 /* MercuryBannerAdView.h */,
-				73D124313400CF5E415C1A6DF9B4540A /* MercuryConfigManager.h */,
-				E071AEEA8732875BCDB50C21E1A01FBB /* MercuryInterstitialAd.h */,
-				89B223E05D030FB6868733E2F1F20558 /* MercuryMediaView.h */,
-				378D0EBBC528447AB46436E012E74068 /* MercuryNativeAd.h */,
-				EDB0559DAF5AC6C47BA5EE5FB28D6874 /* MercuryNativeAdDataModel.h */,
-				10F65EFC35A408ADC0F6E6536893D799 /* MercuryNativeAdView.h */,
-				EE44E62712EE78896F57F7661B278024 /* MercuryNativeExpressAd.h */,
-				DDC6D68B9FCA2847D2418B0C23D5528B /* MercuryNativeExpressAdView.h */,
-				66AB4938D6C5CAB6EA58BB414D94D8DA /* MercuryPrerollAdView.h */,
-				05DFB6F9DB164F34078258BC317435E0 /* MercuryPubEnumHeader.h */,
-				46AEF0F715549F7F8483DB299D8362DC /* MercurySDK.h */,
-				6DE1BEDB4348B6122C5052EAC3D724AA /* MercurySplashAd.h */,
-				3D4DE6110B2FF29AACD0430D231B303A /* MercurySplashAdDelegate.h */,
-				09599662E7E5D40DBEFB50EDA0E028FA /* MercuryVideoConfig.h */,
-				9EF94E99ECAFBB2A6F6A4F688C500037 /* Frameworks */,
-				5E70B36F1230648D5908A6F7439D7113 /* Pod */,
-				EDCC32D74C2F66428D796B82C88FC92B /* Support Files */,
-			);
-			name = MercuryQNSDK;
-			path = ../..;
 			sourceTree = "<group>";
 		};
 		CF1408CF629C7361332E53B88F7BD30C = {
@@ -802,6 +802,16 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		DD43EA7B9E83831F88D2DBB63E5A6B9C /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				945E0CA47F32569FF0E4ACF58EDF8561 /* LICENSE */,
+				409B1C4EEEC5243E7BBF295DF170282A /* MercuryQNSDK.podspec */,
+				7AAC860ADF53EFF1C306CA83B0CBA378 /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
 		E04533583F9CBC10B8A8FA930BA0120A /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -809,16 +819,6 @@
 				5556B0105F3E4B676B17210D84BB5C6A /* SDWebImage */,
 			);
 			name = Pods;
-			sourceTree = "<group>";
-		};
-		EDCC32D74C2F66428D796B82C88FC92B /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				A80490A49E83B6FFE80280C8B844F2DF /* MercuryQNSDK.debug.xcconfig */,
-				9E9C03D23B8456C517DADBFEB6A8626B /* MercuryQNSDK.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/MercuryQNSDK";
 			sourceTree = "<group>";
 		};
 		F04F7DEC5CF179138BA9B06AADC0E361 /* Targets Support Files */ = {
@@ -1376,7 +1376,7 @@
 		};
 		8E62ECA2FA0B3CD67BDF83D87B1F554D /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A80490A49E83B6FFE80280C8B844F2DF /* MercuryQNSDK.debug.xcconfig */;
+			baseConfigurationReference = 10D0317EBB88DA74CC66AC76BA20E7A2 /* MercuryQNSDK.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -1518,7 +1518,7 @@
 		};
 		E5D83A6E0B9F95CC8FD9A52D0E880C13 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9E9C03D23B8456C517DADBFEB6A8626B /* MercuryQNSDK.release.xcconfig */;
+			baseConfigurationReference = 426BC85980243F5A27FC9B658282ED3E /* MercuryQNSDK.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;

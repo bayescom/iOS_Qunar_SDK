@@ -1,1 +1,1 @@
-../../../../../MercuryQNSDK/Lib/1.0.0.8/MercuryNativeExpressAdView.h
+../../../../../MercuryQNSDK/Lib/1.2.0/include/MercuryNativeExpressAdView.h
