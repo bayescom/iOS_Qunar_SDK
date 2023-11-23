@@ -1,1 +1,1 @@
-../../../../../MercuryQNSDK/Lib/1.2.0/include/MercuryNativeAdDataModel.h
+../../../../../MercuryQNSDK/Lib/1.0.2/include/MercuryNativeAdDataModel.h

@@ -1,1 +1,1 @@
-../../../../../MercuryQNSDK/Lib/1.2.0/include/MercuryMediaView.h
+../../../../../MercuryQNSDK/Lib/1.0.2/include/MercuryMediaView.h

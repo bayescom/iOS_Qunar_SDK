@@ -1,1 +1,1 @@
-../../../../../MercuryQNSDK/Lib/1.2.0/include/MercuryConfigManager.h
+../../../../../MercuryQNSDK/Lib/1.0.2/include/MercuryConfigManager.h

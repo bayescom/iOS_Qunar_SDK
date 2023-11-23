@@ -1,1 +1,1 @@
-../../../../../MercuryQNSDK/Lib/1.2.0/include/MercuryPrerollAdView.h
+../../../../../MercuryQNSDK/Lib/1.0.2/include/MercuryPrerollAdView.h
